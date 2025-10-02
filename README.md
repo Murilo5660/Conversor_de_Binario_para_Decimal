@@ -1,1 +1,1 @@
-# Conversor_de_Bin-rio_para_Decimal
+# Conversor_de_Binario_para_Decimal
