@@ -1,0 +1,1 @@
+# Conversor_de_Bin-rio_para_Decimal
